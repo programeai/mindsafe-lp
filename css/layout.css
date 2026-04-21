@@ -1,0 +1,7 @@
+@media(min-width: 1440px){.hidden-72rtr7{display:none!important}}@media(min-width: 1200px) and (max-width: 1439.98px){.hidden-udvftr{display:none!important}}@media(min-width: 768px) and (max-width: 1199.98px){.hidden-1609rhb{display:none!important}}@media(max-width: 767.98px){.hidden-4pnze4{display:none!important}}
+html body { background: rgb(255, 255, 255); } @media (max-width: 767.98px) { html body { background: var(--token-2da3b63b-b69b-4799-9027-7e7e98288add, rgb(246, 247, 250)); } }
+
+  * {
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+  }
